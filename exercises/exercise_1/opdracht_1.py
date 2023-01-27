@@ -8,5 +8,5 @@ def likes(team: list) -> str:
     elif len(team) == 3:
         print("{}, {} and {} like this!".format(team[0], team[1], team[2]))
     else:
-        print("no one likes this!")
+        print("no one likes this!!")
 
